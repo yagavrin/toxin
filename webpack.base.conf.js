@@ -116,6 +116,11 @@ module.exports = {
       inject: true
     }),
     new HtmlWebpackPlugin({
+      template: `${PATHS.src}/UI-kit/cards/cards.pug`,
+      filename: 'cards.html',
+      inject: true
+    }),
+    new HtmlWebpackPlugin({
       template: `${PATHS.src}/UI-kit/colors-and-types/colors-and-types.pug`,
       filename: 'colors-and-types.html',
       inject: true
