@@ -2,6 +2,10 @@
 
 Учебный проект по верстке с использованием Webpack.
 
+Демо версия слайдера
+
+https://yagavrin.github.io/dist/slider-demo/slider
+
 Ссылки на github pages:
 1. Главная страница: https://yagavrin.github.io/dist/
 2. Страница регистрации: https://yagavrin.github.io/dist/registration-page.html
