@@ -4,7 +4,7 @@
 
 Демо версия слайдера
 
-https://yagavrin.github.io/dist/slider-demo/index
+https://yagavrin.github.io/dist/slider-demo/index.html
 
 Ссылки на github pages:
 1. Главная страница: https://yagavrin.github.io/dist/
